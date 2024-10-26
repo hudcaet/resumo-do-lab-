@@ -1,5 +1,6 @@
 # resumo-do-lab-
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO -  Localizando Serviços por Categoria ".
+
 Localizando Serviços por Categoria é um método de organização em plataformas de nuvem, como o Microsoft Azure e AWS, onde os serviços são agrupados em categorias específicas para facilitar a navegação e o uso. Isso ajuda os usuários a encontrar rapidamente os serviços adequados para suas necessidades.
 
 As categorias geralmente são organizadas, conforme abaixo:
